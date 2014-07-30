@@ -16,7 +16,8 @@ BANDS = [
             "early Phil Collins",
             "Ben Folds",
             "Sam Cooke",
-            "Carole King"
+            "Carole King",
+            "O.A.R"
         ]
 
 # ;)
@@ -30,7 +31,8 @@ PLACES = [
             "low-cost local music event",
             "beer tasting event",
             "friend's bbq",
-            "lazy river"
+            "lazy river",
+            "farmers market"
          ]
 
 # ;)
@@ -43,7 +45,8 @@ EXPRESSIONS = [
                 "aw yeah",
                 "feels right",
                 "emotions just right",
-                "everything just right"
+                "everything just right",
+                "gnarly"
               ]
 
 # ;)
